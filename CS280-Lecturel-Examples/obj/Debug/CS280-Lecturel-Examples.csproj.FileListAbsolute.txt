@@ -1,1 +1,6 @@
 c:\CSharp-Projects\CS280-Lecturel-Examples\CS280-Lecturel-Examples\bin\Debug\CS280-Lecturel-Examples.exe.config
+c:\CSharp-Projects\CS280-Lecturel-Examples\CS280-Lecturel-Examples\bin\Debug\CS280-Lecturel-Examples.exe
+c:\CSharp-Projects\CS280-Lecturel-Examples\CS280-Lecturel-Examples\bin\Debug\CS280-Lecturel-Examples.pdb
+c:\CSharp-Projects\CS280-Lecturel-Examples\CS280-Lecturel-Examples\obj\Debug\CS280-Lecturel-Examples.csprojResolveAssemblyReference.cache
+c:\CSharp-Projects\CS280-Lecturel-Examples\CS280-Lecturel-Examples\obj\Debug\CS280-Lecturel-Examples.exe
+c:\CSharp-Projects\CS280-Lecturel-Examples\CS280-Lecturel-Examples\obj\Debug\CS280-Lecturel-Examples.pdb
