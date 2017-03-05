@@ -10,7 +10,14 @@ namespace CS280_Lecturel_Examples
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello Word!!");
+            Pokemon pokemon = new Pokemon();
+            pokemon.Height = 2.0f;
+            pokemon.Weight = 12.7f;
+            pokemon.Category = "Lizard";
+            pokemon.Abilities = "B;aze";
+            pokemon.Gender = "M";
+            Console.WriteLine("身高:{0}公尺,體重{1}磅,性別:{2}",
+                pokemon.Height, pokemon.Weight, pokemon.Gender);
         }
     }
 }
